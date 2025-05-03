@@ -71,7 +71,7 @@
   </section>  <section>
     <h2>Контакти / замовлення пісень</h2>
     <div class="contact">
-      <p>Email: <a href="mailto:lion@example.com">lion@example.com</a></p>
+      <p>Email: <a href="mailto: annaromanenkopryncesa@gmail.com">lion@example.com</a></p>
       <p>Instagram: <a href="https://instagram.com/lion_solo.official" target="_blank">@lion_solo.official</a></p>
     </div>
   </section>  <footer>
